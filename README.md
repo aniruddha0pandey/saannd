@@ -1,3 +1,7 @@
-# placeholder  
-https://github.com/sclorg/django-ex  
-https://github.com/awesto/django-shop
+# saannd 
+
+```bash
+$ pip install pyinstaller
+$ pyinstaller setup.py >> log 2>&1
+$ rm -rf build/ dist/ log __pycache__/ setup.spec 
+```
