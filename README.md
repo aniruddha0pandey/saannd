@@ -2,7 +2,7 @@
 
 ```bash
 $ pip install pyinstaller
-$ pyinstaller setup.py >> log/"`date +%d:%m:%Y-%H:%M:%S.log`" 2>&1
+$ pyinstaller setup.py >> log/"`date +%d:%m:%Y-%H:%M:%S.log`" 2>&1 # make sure log/ directory is present
 $ rm -rf build/ dist/ __pycache__/ setup.spec
 ```  
   
