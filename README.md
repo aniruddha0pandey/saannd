@@ -9,17 +9,19 @@ $ rm -rf build/ dist/ log __pycache__/ setup.spec
 ## File Structure
 ```
 saannd/
-├── __pycache__/
 ├── build/
+│   └── setup/
 ├── dist/
 │   └── setup/
 |       └── ./setup <--- Binaries
 ├── log/
-│   └── date.log
+│   └── day:month:year-hour:min:sec.log
 ├── packages/
 │   ├── nav/
 |   ├── toolbar/
 |   └── sign/
+├── __pycache__/
+│   └── setup.cpython-37.pyc
 ├── README.md
 ├── setup.py
 └── setup.spec
