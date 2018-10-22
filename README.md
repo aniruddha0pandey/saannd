@@ -20,7 +20,7 @@ saannd/
 │   └── setup/
 ├── dist/
 │   └── setup/
-|       └── ./setup <--- Binaries
+|       └── ./setup
 ├── logs/
 │   └── day:month:year-hour:min:sec.log
 ├── packages/
