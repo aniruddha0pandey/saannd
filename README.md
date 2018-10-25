@@ -6,12 +6,13 @@ $ pip install pyinstaller
 ```
 ### Build
 ```bash
-$ pyinstaller setup.py >> logs/"`date +%d:%m:%Y-%H:%M:%S.log`" 2>&1 # make sure logs/ directory is present
+$ chmod u+x buildApp.sh
+$ ./buildApp.sh
 ```
 ### Rebuild / Clean
 ```bash
-$ chmod u+x clean.sh
-$ ./clean
+$ chmod u+x cleanApp.sh
+$ ./cleanApp.sh
 ```  
   
 ### File Structure
@@ -25,9 +26,7 @@ saannd/
 ├── logs/
 │   └── day:month:year-hour:min:sec.log
 ├── packages/
-│   ├── nav/
-|   ├── toolbar/
-|   └── sign/
+│   └── menuBar/
 ├── __pycache__/
 │   └── setup.cpython-37.pyc
 ├── README.md

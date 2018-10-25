@@ -1,0 +1,7 @@
+# pyinstaller #
+###########################
+
+__pycache__
+build
+setup.spec
+logs
