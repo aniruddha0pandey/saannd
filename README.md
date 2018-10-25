@@ -11,9 +11,10 @@ $ pyinstaller setup.py >> logs/"`date +%d:%m:%Y-%H:%M:%S.log`" 2>&1 # make sure 
 ### Rebuild / Clean
 ```bash
 $ chmod u+x clean
+$ ./clean
 ```  
   
-## File Structure
+### File Structure
 ```
 saannd/
 ├── build/
