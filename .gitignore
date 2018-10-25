@@ -1,8 +1,8 @@
 # pyinstaller #
 ###########################
 
-__pycache__
-build
+__pycache__/
+build/
 setup.spec
-logs
-dist
+logs/
+dist/
