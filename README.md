@@ -7,12 +7,12 @@ $ pip install pyinstaller
 ### Build
 ```bash
 $ chmod u+x buildApp.sh
-$ ./buildApp.sh
+$ ./buildapp.sh
 ```
 ### Rebuild / Clean
 ```bash
 $ chmod u+x cleanApp.sh
-$ ./cleanApp.sh
+$ ./cleanapp.sh
 ```  
   
 ### File Structure
