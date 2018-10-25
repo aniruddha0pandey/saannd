@@ -20,9 +20,12 @@ $ ./cleanApp.sh
 saannd/
 ├── build/
 │   └── setup/
+├── buildApp.sh
+├── cleanApp.sh
 ├── dist/
 │   └── setup/
 |       └── ./setup
+├── .gitignore
 ├── logs/
 │   └── day:month:year-hour:min:sec.log
 ├── packages/
@@ -31,5 +34,6 @@ saannd/
 │   └── setup.cpython-37.pyc
 ├── README.md
 ├── setup.py
-└── setup.spec
+├── setup.spec
+└── TODOs
 ```
