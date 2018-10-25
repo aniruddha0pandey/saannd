@@ -10,7 +10,7 @@ $ pyinstaller setup.py >> logs/"`date +%d:%m:%Y-%H:%M:%S.log`" 2>&1 # make sure 
 ```
 ### Rebuild / Clean
 ```bash
-$ chmod u+x clean
+$ chmod u+x clean.sh
 $ ./clean
 ```  
   
