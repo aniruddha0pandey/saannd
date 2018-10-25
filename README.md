@@ -6,12 +6,12 @@ $ pip install pyinstaller
 ```
 ### Build
 ```bash
-$ chmod u+x buildApp.sh
+$ chmod u+x buildapp.sh
 $ ./buildapp.sh
 ```
 ### Rebuild / Clean
 ```bash
-$ chmod u+x cleanApp.sh
+$ chmod u+x cleanapp.sh
 $ ./cleanapp.sh
 ```  
   
