@@ -9,5 +9,8 @@ except ImportError:
 from packages.menuBar import *
 
 
+def main():
+	menuBar.showMenu()
 
-menuBar.showMenu()
+if __name__ == "__main__":
+    main()
