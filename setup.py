@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- ENCODING: UTF-8 -*-
 # -*- PYTHON DEVL: (3.7.2) -*-
  
 try:
