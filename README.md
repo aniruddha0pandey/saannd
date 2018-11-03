@@ -3,16 +3,18 @@
 ### Dependencies
 ```bash
 $ pip install pyinstaller
+$ wget https://github.com/aniruddha0pandey/dotfiles/blob/master/.scripts/ydaami.c
 ```
 ### Build
 ```bash
-$ ./buildapp.sh
+$ ./buildapp.sh                     # build application
+$ ./ydaami -rt! saannd/ >> README.md # build project-structure markdown
 ```
 ### Rebuild / Clean
 ```bash
 $ ./cleanapp.sh
 ```  
-<sub><code>chmod u+x</code> to make it executable.</sub>
+<sub><code>chmod u+x</code> to access build scripts as executables and <code>make</code> for making ydaami binaries.</sub>
   
 ### File Structure
 ```
