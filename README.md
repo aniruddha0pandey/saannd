@@ -8,7 +8,7 @@ $ wget https://github.com/aniruddha0pandey/dotfiles/blob/master/.scripts/ydaami.
 ### Build
 ```bash
 $ ./buildapp.sh                      # build application
-$ ./ydaami -rm! saannd/ >> README.md # build project-structure markdown
+$ ./ydaami -rm! saannd/ >> README.md # (optional) build project-structure markdown
 ```
 ### Rebuild / Clean
 ```bash
