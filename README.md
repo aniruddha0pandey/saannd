@@ -3,7 +3,7 @@
 ### Dependencies
 ```bash
 $ pip install pyinstaller
-$ wget https://github.com/aniruddha0pandey/dotfiles/blob/master/.scripts/ydaami.c
+$ wget https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/.scripts/ydaami.c
 ```
 ### Build
 ```bash
