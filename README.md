@@ -14,7 +14,7 @@ $ ./ydaami -rm! saannd/ >> README.md # (optional) build project-structure markdo
 ```bash
 $ ./cleanapp.sh
 ```  
-<sub><code>chmod u+x</code> to access build scripts as executables and <code>make</code> for making ydaami binaries.</sub>
+<sub><code>chmod u+x</code> to access build scripts as executables and <code>make</code> for making <code>ydaami</code> binaries.</sub>
   
 ### File Structure
 ```
