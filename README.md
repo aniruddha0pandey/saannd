@@ -7,7 +7,7 @@ $ wget https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/.scrip
 ```
 ### Build
 ```bash
-$ ./buildapp.sh                      # build application
+$ ./buildapp.sh                   # build application
 $ ./ydaami -rm! saannd/ README.md # (optional) build project-structure markdown
 $ # tree >> README.md # (otherwise)
 ```
