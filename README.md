@@ -2,7 +2,7 @@
 
 ### Dependencies
 ```bash
-$ pip install pyinstaller
+$ pip install pyinstaller # py2exe
 $ wget https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/.scripts/ydaami.c
 ```
 ### Build
